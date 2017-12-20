@@ -1,0 +1,380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fligh",
+				"flight_data"
+			],
+			[
+				"med",
+				"media_agg_temp"
+			],
+			[
+				"irds",
+				"irdsma_prod"
+			],
+			[
+				"pa",
+				"path_decay_device_temp"
+			],
+			[
+				"c",
+				"capitalize"
+			],
+			[
+				"new_",
+				"new_l"
+			],
+			[
+				"min",
+				"min_l"
+			],
+			[
+				"ma",
+				"max_l"
+			],
+			[
+				"l",
+				"l_str"
+			],
+			[
+				"n",
+				"new_l"
+			],
+			[
+				"to",
+				"to_str"
+			],
+			[
+				"center",
+				"centered_mean"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"len",
+				"len_less"
+			],
+			[
+				"a",
+				"a_l"
+			],
+			[
+				"x",
+				"x_str"
+			],
+			[
+				"double",
+				"double_sum〔variable〕"
+			],
+			[
+				"new",
+				"new_dict〔variable〕"
+			],
+			[
+				"outp",
+				"output_list"
+			],
+			[
+				"out",
+				"output_list〔variable〕"
+			],
+			[
+				"ca",
+				"cat_dog〔function〕"
+			],
+			[
+				"re",
+				"result_dict"
+			],
+			[
+				"me",
+				"median_result"
+			],
+			[
+				"medi",
+				"median_result"
+			],
+			[
+				"men",
+				"mean_result"
+			],
+			[
+				"mean",
+				"mean_result"
+			],
+			[
+				"cum",
+				"cuml_sum_list"
+			],
+			[
+				"word",
+				"word_dict"
+			],
+			[
+				"iter",
+				"iter_dict"
+			],
+			[
+				"dict",
+				"dict_obj"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"vi",
+			"quit()",
+			"pwd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zachary/Desktop/flight_data.sql",
+		"/Users/zachary/Desktop/create_cluster.py",
+		"/Users/zachary/Desktop/cred.yml",
+		"/Users/zachary/Desktop/pm_constraint_notes.py",
+		"/Users/zachary/Desktop/media_agg_test.sql",
+		"/Users/zachary/Desktop/new_q.sql",
+		"/Users/zachary/Desktop/db_notes.sql",
+		"/Users/zachary/Desktop/beta_constraints_notes.sql",
+		"/Users/zachary/Desktop/new_initial_pm_query.sql",
+		"/Users/zachary/Desktop/model_iter_dict.py",
+		"/Users/zachary/Desktop/hadoop_rm",
+		"/Users/zachary/Desktop/order_adj.sql",
+		"/Users/zachary/Desktop/concur_p",
+		"/Users/zachary/Desktop/hadoop fs -rm -r -skipTrash :irdsma:test:temp_devi",
+		"/Users/zachary/Desktop/python_notes/python_practice/python_practice.py",
+		"/Users/zachary/Desktop/step_sum_draft.sql",
+		"/Users/zachary/Desktop/python_practice/codeingbat_practice.py",
+		"/Users/zachary/Desktop/codingbat_problems/codingbat_warmup_1.py",
+		"/Users/zachary/Desktop/codingbat_problems/codingbat_warmup_2.py",
+		"/Users/zachary/Desktop/python_practice/codeingbat_practice",
+		"/Users/zachary/Desktop/codingbat_problems/codingbat_warmup_python_string_1.py",
+		"/Users/zachary/Desktop/codingbat_problems/codingbat_warmup_python_list_1.py",
+		"/Users/zachary/Desktop/python_practice/codingbat_warmup_1.py",
+		"/Users/zachary/Desktop/python_practice/python_practice.py",
+		"/Users/zachary/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/zachary/Desktop/python_practice/python_practice2.py",
+		"/python_practice.py",
+		"/Users/zachary/Desktop/python_practice2.py",
+		"/Users/zachary/Desktop/python_practice.py",
+		"/Users/zachary/Desktop/path_level_model.py",
+		"/Users/zachary/Desktop/aws_to_hdfs.sh",
+		"/Users/zachary/Desktop/tt.py",
+		"/Users/zachary/Desktop/test_p.py",
+		"/py_t.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"update",
+			"0",
+			"ifnull",
+			"word"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"CAST(0 AS BIGINT)",
+			"COALESCE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 207.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"python_practice/python_practice.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 387.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"desc_statistics"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
